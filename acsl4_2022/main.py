@@ -1,5 +1,5 @@
 """
-ok this one seems like it fucking sucks but lets go
+ok this one seems like it sucks but lets go
 
 first thing to do is to create the recursive mandelbrot function
 
